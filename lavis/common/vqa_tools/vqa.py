@@ -1,17 +1,4 @@
-"""
- Copyright (c) 2022, salesforce.com, inc.
- All rights reserved.
- SPDX-License-Identifier: BSD-3-Clause
- For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/BSD-3-Clause
-"""
-
-__author__ = "aagrawal"
-__version__ = "0.9"
-
 # Interface for accessing the VQA dataset.
-
-# This code is based on the code written by Tsung-Yi Lin for MSCOCO Python API available at the following link:
-# (https://github.com/pdollar/coco/blob/master/PythonAPI/pycocotools/coco.py).
 
 # The following functions are defined:
 #  VQA        - VQA class that loads VQA annotation file and prepares data structures.
