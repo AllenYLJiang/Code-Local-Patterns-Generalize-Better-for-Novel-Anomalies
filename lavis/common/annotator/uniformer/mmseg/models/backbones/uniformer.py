@@ -1,7 +1,5 @@
 # --------------------------------------------------------
 # UniFormer
-# Copyright (c) 2022 SenseTime X-Lab
-# Licensed under The MIT License [see LICENSE for details]
 # --------------------------------------------------------
 
 from collections import OrderedDict
